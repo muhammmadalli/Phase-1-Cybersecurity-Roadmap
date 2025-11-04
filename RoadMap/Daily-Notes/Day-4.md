@@ -21,21 +21,21 @@
 ## Findings
 - Command(s): 
   
-| Command                                         | Description                                                                                                        | Category |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------- |
-| `cp <filename1> <filename2>`                    | `cp` stands for "copy". The first argument is the source file, the second is the destination                       | Linux    |
-| `mv <filename> .. `                             | `mv` stands for "move". The `..` represents the parent directory (one level up).                                   | Linux    |
-| `rm <filename>`                                 | `rm` stands for "remove". Be careful with this command                                                             | Linux    |
-| `ls ..`                                         | List the contents of previous directory                                                                            | Linux    |
-| `CTRL+L`                                        | To clear the screen/terminal                                                                                       | Linux    |
-| `man <command>`                                 | Detailed information, use the `man` command (short for "manual"                                                    | Linux    |
-| `<command> --help`                              | Summary of a command and its options, use the `--help` option                                                      | Linux    |
-| `du -h <file>`                                  | How much space files/folders use                                                                                   | Linux    |
-| `cat ./-`                                       | To open the dashed file                                                                                            | Linux    |
-| `touch <filename>`                              | To create a file                                                                                                   | Linux    |
-| `echo <text> > <filename> `                     | To append the file with the input text where `echo` can be used for multiple things too read the `man echo` for it | Linux    |
-| `cat data.txt <pipe> tr 'A-Za-z 'N-ZA-Mn-za-m'` | To translate the `ROT13` file into the normal text                                                                 | Linux    |
-| `base64 -d <textfile>`                          | Used to decode the `base64` encoded text                                                                           | Linux    |
+| Command                                       | Description                                                                                                        | Category |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------- |
+| `cp <filename1> <filename2>`                  | `cp` stands for "copy". The first argument is the source file, the second is the destination                       | Linux    |
+| `mv <filename> .. `                           | `mv` stands for "move". The `..` represents the parent directory (one level up).                                   | Linux    |
+| `rm <filename>`                               | `rm` stands for "remove". Be careful with this command                                                             | Linux    |
+| `ls ..`                                       | List the contents of previous directory                                                                            | Linux    |
+| `CTRL+L`                                      | To clear the screen/terminal                                                                                       | Linux    |
+| `man <command>`                               | Detailed information, use the `man` command (short for "manual"                                                    | Linux    |
+| `<command> --help`                            | Summary of a command and its options, use the `--help` option                                                      | Linux    |
+| `du -h <file>`                                | How much space files/folders use                                                                                   | Linux    |
+| `cat ./-`                                     | To open the dashed file                                                                                            | Linux    |
+| `touch <filename>`                            | To create a file                                                                                                   | Linux    |
+| `echo <text> > <filename> `                   | To append the file with the input text where `echo` can be used for multiple things too read the `man echo` for it | Linux    |
+| cat data.txt &#124; tr 'A-Za-z 'N-ZA-Mn-za-m' | To translate the `ROT13` file into the normal text                                                                 | Linux    |
+| `base64 -d <textfile>`                        | Used to decode the `base64` encoded text                                                                           | Linux    |
 
 ## Reflections
 

@@ -13,11 +13,11 @@
 ## Reflections
 - What I learned today:
 
-| Command                                                                  | Description                                                                            | Category |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------- |
-| `cut -d: -f1 /etc/group`                                                 | The explanation for this command is given below but in short it lists all the `groups` | Linux    |
-| `result=$(echo "scale=2; (10.5 * 4.2) - (5.5 / 2) + 3^2" \| bc)`<br><br> | Using `scale` to set the decimal places<br>Using the `bc` command for calculator<br>   | Linux    |
-| `echo "Result: $result"`                                                 | Using `echo` to output the results                                                     |          |
+| Command                                                                | Description                                                                            | Category |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------- |
+| `cut -d: -f1 /etc/group`                                               | The explanation for this command is given below but in short it lists all the `groups` | Linux    |
+| result=$(echo "scale=2; (10.5 * 4.2) - (5.5 / 2) + 3^2" &#124; bc)<br> | Using `scale` to set the decimal places<br>Using the `bc` command for calculator<br>   | Linux    |
+| `echo "Result: $result"`                                               | Using `echo` to output the results                                                     |          |
 - What needs review:
 > [!Info] `cut -d: -f1 /etc/group`
 > ### Explanation
