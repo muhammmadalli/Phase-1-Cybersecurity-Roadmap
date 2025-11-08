@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [📓 Day 23](#-day-23)
+  - [Tasks](#tasks)
+  - [Findings](#findings)
+  - [Reflections](#reflections)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 📓 Day 23
 
 **Focus:** TASK NAME

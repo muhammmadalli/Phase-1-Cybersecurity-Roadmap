@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Introduction to Phase-1](#introduction-to-phase-1)
+  - [What Phase-1 teaches](#what-phase-1-teaches)
+  - [Minimum requirements](#minimum-requirements)
+  - [Essential software for this repo (open & use)](#essential-software-for-this-repo-open--use)
+  - [Obsidian — how to open & quick tips](#obsidian--how-to-open--quick-tips)
+  - [Notes on safety & sharing](#notes-on-safety--sharing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Introduction to Phase-1 
 
 **Author:** Muhammad Mohsin Khadim
