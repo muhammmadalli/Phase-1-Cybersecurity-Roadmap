@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [📅 Week 4 – Web Hacking Intro](#-week-4--web-hacking-intro)
+  - [Daily Plan](#daily-plan)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 📅 Week 4 – Web Hacking Intro
 
 ✅ **Tasks**

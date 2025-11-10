@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [🛡️ Phase 1 – Fundamentals (Days 1–30)](#-phase-1--fundamentals-days-130)
+  - [📅 Weeks](#-weeks)
+  - [🎯 Outcomes](#-outcomes)
+- [🔥 Detailed Plan](#-detailed-plan)
+  - [Week 1–2: Linux & Basics](#week-12-linux--basics)
+  - [Week 3: Enumeration Basics](#week-3-enumeration-basics)
+  - [Week 4: Web Hacking](#week-4-web-hacking)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 🛡️ Phase 1 – Fundamentals (Days 1–30)
 
 **Goal:** Build a foundation in Linux, networking, scripting, and basic exploitation.
