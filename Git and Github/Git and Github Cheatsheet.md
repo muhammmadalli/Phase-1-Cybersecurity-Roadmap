@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [GitHub Cheat Sheet](#github-cheat-sheet)
+  - [📦 Basic Git Commands](#-basic-git-commands)
+  - [🚀 Git Workflow](#-git-workflow)
+  - [🔄 Merging & Rebasing](#-merging--rebasing)
+  - [📈 Branch Management](#-branch-management)
+  - [🛠️ Stashing & Unstaging](#-stashing--unstaging)
+  - [📥 Remote Operations](#-remote-operations)
+  - [⚙️ GitHub‑Specific Tips](#-github%E2%80%91specific-tips)
+  - [📌 Common GitHub Actions](#-common-github-actions)
+  - [🔧 Useful Flags & Shortcuts](#-useful-flags--shortcuts)
+  - [🏁 Quick Reference](#-quick-reference)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # GitHub Cheat Sheet
 
 > A compact reference you can drop into Obsidian for quick look‑ups.
